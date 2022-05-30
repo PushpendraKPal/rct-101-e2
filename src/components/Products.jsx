@@ -7,6 +7,8 @@ const Products = () => {
 
   return (
     <Flex>
+
+      "Hello"
       {/*  AddProduct */}
       <Grid>{/* List of Products */}</Grid>
       {/* Pagination */}
